@@ -19,11 +19,11 @@ http://localhost:8080/docker-compose-gradle-war-example/hello
 
 Try this:
 
-* Change the source
-* Watch how Gradle re-builds the `war` file
-* Watch how Tomcat re-deploys the web app
-* Refresh the browser
-* See your changes & celebrate!
+* Change the source 👩🏼‍💻
+* Watch how Gradle re-builds the `war` file 🎁
+* Watch how Tomcat re-deploys the web app 💫
+* Refresh the browser 🔄
+* See your changes & celebrate! ✨
 
 == License
 
