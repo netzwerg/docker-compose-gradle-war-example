@@ -1,0 +1,6 @@
+web:
+  image: tomcat:latest
+  volumes:
+    - ./build/libs:/usr/local/tomcat/webapps
+  ports:
+  - 8080:8080
