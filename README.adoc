@@ -25,6 +25,22 @@ Try this:
 * Refresh the browser 🔄
 * See your changes & celebrate! ✨
 
+== Remote Debugging
+
+The provided link:docker-compose.yml[docker-compose.yml] already contains the configuration necessary for remote debugging via JPDA (Java Platform Debugger Architecture).
+
+Use your favorite IDE to connect to the target VM via `localhost:8000`:
+
+image::debug-config.png[]
+
+Try this:
+
+* Set a breakpoint in your source 🛑
+* Refresh the browser 🔄
+* Use the debugger to step through you code 🐞
+
+image::debug-in-action.png[]
+
 == License
 
 Licensed under link:LICENSE[MIT License].
