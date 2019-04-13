@@ -37,7 +37,7 @@ Try this:
 
 * Set a breakpoint in your source 🛑
 * Refresh the browser 🔄
-* Use the debugger to step through you code 🐞
+* Use the debugger to step through your code 🐞
 
 image::debug-in-action.png[]
 
